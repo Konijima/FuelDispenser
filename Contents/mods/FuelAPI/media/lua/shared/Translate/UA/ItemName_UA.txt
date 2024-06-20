@@ -1,0 +1,5 @@
+ItemName_UA = {
+    ItemName_FuelAPI.LargePetrolCan = "Велика каністра",
+    ItemName_FuelAPI.LargePetrolCanFull = "Велика каністра бензину",
+    ItemName_FuelAPI.LargePetrolCanWater = "Велика каністра з водою",
+}
