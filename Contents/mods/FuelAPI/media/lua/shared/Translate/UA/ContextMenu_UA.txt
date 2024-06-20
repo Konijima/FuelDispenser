@@ -1,0 +1,5 @@
+ContextMenu_UA {
+    ContextMenu_FuelName = "Бензин",
+    ContextMenu_AddFuel = "Залити бензин",
+    ContextMenu_AddAllFuel = "Залити все",
+}
